@@ -203,8 +203,8 @@ nav{
 
 .crew-names{
     display: flex;
-    justify-content: center;
-    gap: 135px;
+    justify-content: space-around;
+
 }
 .crew-names p{
     padding-top: 0px; 
